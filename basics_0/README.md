@@ -95,5 +95,3 @@ A port is a software-based endpoint through which data is sent and received on a
 ## What tool/protocol is often used to check if a device is connected to a network
 
 The most common tool/protocol used to check if a device is connected to a network is ICMP (Internet Control Message Protocol), often utilized through the "ping" command. "Ping" sends ICMP echo requests to a target device and waits for a response to determine if the device is reachable.
-
-# holbertonschool-network
